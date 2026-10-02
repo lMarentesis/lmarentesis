@@ -1,47 +1,38 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ⚡ Hi, I'm [lMarentesis] 
 
-### 💻 Backend Developer | ⚡ Electronics Enthusiast
+I specialize in **Backend Architecture**, **Blue Team Cybersecurity**, and **Infrastructure**. With a hands-on background in Electronics and running an IoT automation business, my focus is on bridging the gap between secure physical environments and robust software systems.
 
-Soy un desarrollador enfocado en el **Backend** con una gran pasión por la **electrónica y el hardware**. Me encanta construir sistemas robustos, crear APIs eficientes y, en mi tiempo libre, jugar con circuitos, microcontroladores y el Internet de las Cosas (IoT). Me fascina conectar el código con el mundo físico.
-
----
-
-### 🚀 Sobre mí
-
-- 🔭 Actualmente trabajando en **[nombre de tu proyecto actual o empresa]**
-- 🌱 Aprendiendo y explorando más sobre **[ej: Arquitectura de Microservicios, Diseño de PCBs, Rust, etc.]**
-- 🤝 Buscando colaborar en **[ej: proyectos open source de IoT, herramientas para desarrolladores, etc.]**
-- 💬 Pregúntame sobre **[ej: APIs REST, bases de datos, Arduino, ESP32, etc.]**
-- ⚡ Dato curioso: **[ej: Una vez quemé un componente por no revisar el voltaje / Me encanta el café de especialidad]**
+### ⚙️ What I do
+- **Backend & Systems:** Deep diving into memory management, performance, and low-level programming.
+- **Security & Infrastructure:** Building a comprehensive Homelab for network monitoring and defensive security.
+- **Hardware & IoT:** Designing automation solutions that connect physical hardware to secure networks.
+- **Environment:** Power user of Linux systems; I live in the terminal and believe in infrastructure automation.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Core Stack
 
-**Backend & Bases de Datos:**
-<!-- Aquí puedes usar texto normal o buscar badges en shields.io -->
-- Python | Node.js | C | Go *(Deja solo los que uses)*
-- PostgreSQL | MongoDB | MySQL | Redis
-- Docker | Linux | Git 
+**Languages & Scripting** <br>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
 
-**Electrónica & Hardware:**
-- Arduino | ESP32 | Raspberry Pi
-- C / C++ | MicroPython
-- Sensores | Diseño de circuitos básicos | Soldadura
+**OS & DevOps** <br>
+<img src="https://img.shields.io/badge/Omarchy-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Omarchy"/>
+<img src="https://img.shields.io/badge/Linux_Terminal-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="Terminal"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+
+**Blue Team & Security** <br>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK Stack"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+
+**Hardware & IoT** <br>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/IoT-FF9900?style=flat-square&logo=internet-of-things&logoColor=white" alt="IoT"/>
 
 ---
-
-### 📈 Mis Estadísticas en GitHub
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radium" alt="Estadísticas de lmarentesis" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radium" alt="Lenguajes más usados" height="150" />
-</div>
-
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)]([https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/luiz-miguel-lopez-marentes-b17aa7435/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_luizmarentesis@proton.me)
